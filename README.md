@@ -23,3 +23,11 @@
 ## [PDF下载]()
 下载为pdf内容的:整个为一个文档，通过浏览器导出为PDF的！
 
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
+

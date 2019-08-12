@@ -1,0 +1,22 @@
+{
+  "name": "tao-and-teh",
+  "version": "1.0.0",
+  "description": "Dao de Jing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qiutian00/Tao-and-Teh.git"
+  },
+  "keywords": [
+    "Dao"
+  ],
+  "author": "all",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qiutian00/Tao-and-Teh/issues"
+  },
+  "homepage": "https://github.com/qiutian00/Tao-and-Teh#readme"
+}

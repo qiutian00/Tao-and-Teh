@@ -1,3 +1,5 @@
+[林语堂英语版本](/source/Tao-and-Teh-en.md)|[繁体中文版](/source/Tao-and-Teh-zh-tw.md)|[简体中文版](/source/Tao-and-Teh-zh-cn.md)
+
 ## Tao and Teh
 
 	laozi　works

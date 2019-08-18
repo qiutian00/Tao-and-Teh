@@ -1,7 +1,7 @@
+[简体中文版](/source/Tao-and-Teh-zh-cn.md)|[繁体中文版](/source/Tao-and-Teh-zh-tw.md)|[林语堂英语版本](/source/Tao-and-Teh-en.md)
+
 # Tao-and-Teh
 道德经: Tao De Jing
-
-## [简体中文版](/source/Tao-and-Teh-zh-cn.md)|[繁体中文版](todo)|[林语堂英语版本](/source/Tao-and-Teh-en.md)
 
 ## 学习
 > * 老子道德经注(PS: 华东师范出版社)
@@ -17,8 +17,8 @@
 > * 中文版内容[来源](www.daodejing.org)。
 > * 英文版内容来源[林语堂的道德经翻译](http://www.360doc.com/content/17/1016/09/235213_695322450.shtml)。
 
-## [PDF下载]()
-下载为pdf内容的:整个为一个文档，通过浏览器导出为PDF的！
+## PDF下载
+[下载为pdf](/source/Tao-and-Teh-zh-cn.pdf)
 
 ## Contributing
 

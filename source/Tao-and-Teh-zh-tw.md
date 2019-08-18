@@ -1,3 +1,5 @@
+[繁体中文版](/source/Tao-and-Teh-zh-tw.md)|[简体中文版](/source/Tao-and-Teh-zh-cn.md)|[林语堂英语版本](/source/Tao-and-Teh-en.md)
+
 ## 《道德经》
     作者：老子
 

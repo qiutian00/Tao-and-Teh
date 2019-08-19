@@ -129,10 +129,10 @@
 
 网址：
 
-	https://github.com/ddiu8081/ChartFun
-	https://github.com/wandergis/hospital-viz
-	https://github.com/HongqingCao/GitDataV
+	https://github.com/ddiu8081/ChartFun not
+	https://github.com/wandergis/hospital-viz not has code
 	https://github.com/chengquan223/map-canvas
-	https://github.com/yyhsong/iDataV
-	https://yyhsong.github.io/iDataV/
+
+	https://github.com/HongqingCao/GitDataV  ok
+	https://github.com/yyhsong/iDataV ok
 			

@@ -3,6 +3,9 @@
 # Tao-and-Teh
 道德经: Tao-and-Teh or Dao De Jing
 
+## 入门
+[道德经解-明憨山大师著](/source/Tao-and-Teh-HSDS.md)
+
 ## 学习
 > * 老子道德经注(PS: 华东师范出版社)
 > * 白岩松老师视频(PS: 白说演讲， [在一刻talks演讲](https://www.bilibili.com/video/av51009656?from=search&seid=11283991161854352631) ，乌镇文化讲堂： [道德经 我的生命之书](https://www.bilibili.com/video/av57762220?from=search&seid=11283991161854352631))
